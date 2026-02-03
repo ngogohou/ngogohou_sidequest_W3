@@ -1,5 +1,5 @@
 function drawPathA() {
-  background(255, 180, 255);
+  background(200, 0, 0);
   fill(0);
   text("You follow the glowing light.", width / 2, height / 2 - 20);
   text("It feels warm and hopeful.", width / 2, height / 2 + 10);
